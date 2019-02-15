@@ -33,6 +33,10 @@ body {
     color: #34495e;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
 h1 {
     margin: 48px 0 22px -5px;
     font-size: 2.0rem;
